@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ifeoma Onyiuke
 - 👀 I’m interested in Data Analytics and Data Management
-- 🌱 I’m currently learning Python, R. Also Data Analytics with Udacity
+- 🌱 I’m currently learning Python, R. Also AI Programming with Python @ Udacity
 - 💞️ I’m looking to collaborate on projects on Python, data analysis
 - 📫 How to reach me 
 
