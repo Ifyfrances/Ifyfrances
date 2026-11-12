@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ifeoma Onyiuke
+- 👋 Hi, I’m Ifeoma 
 - 👀 I’m interested in Data Analytics and Data Management
 - 🌱 I’m currently learning Python, R.
 - 💞️ I’m looking to collaborate on projects on Python, data analysis
